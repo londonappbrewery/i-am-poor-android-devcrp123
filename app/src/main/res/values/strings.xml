@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">I Am Poor</string>
+    <color name="randColor">#318444</color>
 </resources>
